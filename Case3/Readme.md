@@ -3,8 +3,7 @@
 
 </br>
 
-- Q) Using “pet” endpoints from https://petstore.swagger.io/ write CRUD operations API tests with positive and negative scenarios.
-- 
+Q) Using “pet” endpoints from https://petstore.swagger.io/ write CRUD operations API tests with positive and negative scenarios.
 </br>
 
 - We can run our test from TestRunner
